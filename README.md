@@ -1,5 +1,4 @@
-# BSC <> Polygon zkEVM
-
+## BSC <> Polygon zkEVM
 ## Must do Setup
 There is a .env file (to the root project directory). Add private key addresses to ```PRIVATE_KEY_BSC``` and ```PRIVATE_KEY_POLYGON-ZK-EVM-TESTNET``` for sending out transactions on respective networks.
 
